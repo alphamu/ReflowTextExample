@@ -5,7 +5,7 @@
 
     <transitionSet android:interpolator="@android:interpolator/fast_out_slow_in">
         <targets>
-            <target android:targetId="@id/txt_main" />
+            <target android:targetId="@id/txt_main2" />
         </targets>
         <transition
             class="io.plaidapp.ui.transitions.ReflowText"

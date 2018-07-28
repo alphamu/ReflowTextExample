@@ -32,7 +32,7 @@ public class Main2Activity extends AppCompatActivity {
         getWindow().setSharedElementExitTransition(exitTransition);
         */
         setContentView(R.layout.activity_main2);
-        final TextView textView = (TextView) findViewById(R.id.txt_main);
+        final TextView textView = (TextView) findViewById(R.id.txt_main2);
         textView.setTransitionName("hello_world"); //can set this in the xml layout as well.
 
         setEnterSharedElementCallback(new SharedElementCallback() {

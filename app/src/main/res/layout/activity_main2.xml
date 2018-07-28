@@ -11,7 +11,7 @@
     tools:context="com.alimuzaffar.demo.textreflowexample.activity.Main2Activity">
 
     <TextView
-        android:id="@+id/txt_main"
+        android:id="@+id/txt_main2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
